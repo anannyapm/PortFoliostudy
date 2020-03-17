@@ -1,0 +1,23 @@
+body {
+    background-image: url("annie-spratt-0ZPSX_mQ3xI-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+h2{
+    text-align: center;
+    font-size: xx-large;
+}
+pre{
+    font-size: larger;
+    text-align: justify;
+    font-weight: bolder;
+}
+table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }

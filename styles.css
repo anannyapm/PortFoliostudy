@@ -1,0 +1,67 @@
+body, html {
+    height: 100%;
+  }
+  
+  body {
+    background-image: url("annie-spratt-0ZPSX_mQ3xI-unsplash.jpg");
+    
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+
+  div {
+    width: 1300px;
+    border: 2px solid grey;
+    padding: 5px;
+    margin: 2px;
+  }
+  h1.text1 {
+    text-align: center;
+    text-shadow: 3px 2px grey;
+  }
+
+  h3{
+    font-family: "Times New Roman", Times, serif;
+  }
+  pre{
+      font-size: large;
+      color: black;
+      text-align: justify;
+  }
+
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box; 
+  }
+  input[type=textarea]{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color:gray;
+    color:black;
+    padding: 14px 20px;
+    margin: 8px 0;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .div2 {
+    border-radius: 2px;
+    padding: 10px;
+  }
+
+  #pspan{
+    color:red;
+    font-weight: bold;
+  }
